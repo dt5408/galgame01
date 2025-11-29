@@ -484,12 +484,12 @@
                                 <div class="character">
                                     <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t01d92cb880f6c1acc5.jpg');"></div>
                                     <h3>朝武 芳乃</h3>
-                                    <p>朝武家的巫女，性格认真但有些天然</p>
+                                    <p>朝武家的巫女，性格认真但有些天然呆</p>
                                 </div>
                                 <div class="character">
                                     <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t019c3f85f1cd0002ef.jpg');"></div>
                                     <h3>丛雨</h3>
-                                    <p>神刀"丛雨丸"的付丧神，外表是幼小的少女</p>
+                                    <p>神刀"丛雨丸"的管理者，穗织的守护神，外表是幼小的少女</p>
                                 </div>
                                 <div class="character">
                                     <div class="character-img" style="background-image: url('https://so.360tres.com/dmsmfl/123_121_/t01900439c6c79694db.webp?size=500x500');"></div>
